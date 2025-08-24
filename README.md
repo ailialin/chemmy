@@ -15,9 +15,3 @@
 - `TESTING_GUIDELINES.md` — **Full manual testing scenarios**
 - `SECURITY.md`, `CONTRIBUTING.md`, `CODING_STANDARDS.md`, `RLS_POLICIES.md`
 
-## What changed in this update
-- Added **Admin Panel** spec.
-- Formalized **RBAC matrix** and **In Review lock** behavior.
-- Expanded **AI features** with concrete examples and **RAG document types**.
-- Added **Testing Guidelines** + requirement to seed accounts for each role and `super_admin`.
-
